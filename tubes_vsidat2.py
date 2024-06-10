@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TjvJJBW9A-dQQeeYAX3CWXMR4dvg_6ol
 """
 
-pip install bokeh
 
 import pandas as pd
 from bokeh.plotting import figure, curdoc
